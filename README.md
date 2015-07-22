@@ -3,21 +3,25 @@ Tierras del Terrario
 
 ## Tutorial
 
-![Terrario UAFSM](/Cards/deckcefefae90e2a6f631a55dc59d84bc7a1e0f93335.jpg)
+![Terrario UAFSM](/Cards/deckcefefae90e2a6f631a55dc59d84bc7a1e0f93335.jpg "Universidad Autonoma Federico Santa Maria")
 
-### Selecciona un Personaje
+### Selecciona un Pack
 
-#### YakSeek
+#### PackYakSeek
 
-![YakSeek](/Cards/deck70aaf0ee25f27b73b20199990437f9f3a00a5c32.jpg)
+##### Character
+![YakSeek](/Cards/PackYakSeek/Character.jpg "Yak Pezuña GRANDE III")
+##### Home
+![Isla Ah-Joh](/Cards/deck858dd2079e2fb8c096333c9fb244076c8bb37505.jpg "Isla Ah-Joh")
 
-##### Isla Ah-Joh
 
-![Isla Ah-Joh](/Cards/deck858dd2079e2fb8c096333c9fb244076c8bb37505.jpg)
 
-#### Shoo
+#### PackShoo
 
-![Shoo](/Cards/deck9344021e5fdb2488eb92f569cc0d1520d416d8be.jpg)
+##### Character
+![Shoo](/Cards/deck9344021e5fdb2488eb92f569cc0d1520d416d8be.jpg "Shoo Chuzo Pezado")
+##### Home
+![Isla Shoo-Cloh](/Cards/deck858dd2079e2fb8c096333c9fb244076c8bb37505.jpg "Isla Shoo-Cloh")
 
 
 
