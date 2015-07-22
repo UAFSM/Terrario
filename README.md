@@ -11,16 +11,13 @@ Tierras del Terrario
 
 ![YakSeek](/Cards/deck70aaf0ee25f27b73b20199990437f9f3a00a5c32.jpg)
 
-#### Mapagu
+##### Isla Ah-Joh
 
-![Mapagu](/Cards/deck9344021e5fdb2488eb92f569cc0d1520d416d8be.jpg)
+![Isla Ah-Joh](/Cards/deck858dd2079e2fb8c096333c9fb244076c8bb37505.jpg)
 
+#### Shoo
 
-## Islas
-
-- Isla 
-
-
+![Shoo](/Cards/deck9344021e5fdb2488eb92f569cc0d1520d416d8be.jpg)
 
 
 
