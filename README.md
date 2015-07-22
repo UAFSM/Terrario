@@ -21,7 +21,7 @@ Tierras del Terrario
 ##### Character
 ![Shoo](/Cards/deck9344021e5fdb2488eb92f569cc0d1520d416d8be.jpg "Shoo Chuzo Pezado")
 ##### Home
-![Isla Shoo-Cloh](/Cards/deck858dd2079e2fb8c096333c9fb244076c8bb37505.jpg "Isla Shoo-Cloh")
+![Isla Shoo-Cloh](/Cards/404.jpg "Isla Shoo-Cloh")
 
 
 
