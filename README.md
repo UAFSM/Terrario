@@ -9,11 +9,11 @@ Tierras del Terrario
 
 #### YakSeek
 
-![YakSeek](/Cards/deck70aaf0ee25f27b73b20199990437f9f3a00a5c32.jpg =100x40)
+![YakSeek](/Cards/deck70aaf0ee25f27b73b20199990437f9f3a00a5c32.jpg)
 
 #### Mapagu
 
-![Mapagu](/Cards/deck9344021e5fdb2488eb92f569cc0d1520d416d8be.jpg =100x40)
+![Mapagu](/Cards/deck9344021e5fdb2488eb92f569cc0d1520d416d8be.jpg)
 
 
 ## Islas
