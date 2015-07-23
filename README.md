@@ -20,6 +20,20 @@ Tierras del Terrario
 ##### Historia
 ![Pezuña GRANDE](/Cards/PackYakSeek/History01.jpg "Pezuña GRANDE")
 
+
+#### PackBrahTrah
+
+##### Personaje
+![BrahTrah](/Cards/PackBrahTrah/Character01.jpg "Yak Pezuña GRANDE III")
+##### Hogar
+![Isla Pap-Pap](/Cards/PackBrahTrah/Home01.jpg "Isla Pap-Pap")
+##### Maestria
+![Coinbase](/Cards/PackBrahTrah/Mastery01.jpg "coinbase")
+##### Objeto
+![???](/Cards/PackBrahTrah/Item01.jpg "???")
+##### Historia
+![Mente Fiel](/Cards/PackBrahTrah/History01.jpg "Mente Fiel")
+
 #### PackShoo
 
 ##### Personaje
