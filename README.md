@@ -10,14 +10,15 @@ Tierras del Terrario
 #### PackYakSeek
 
 ##### Personaje
-![YakSeek](/Cards/PackYakSeek/Character.jpg "Yak Pezuña GRANDE III")
+![YakSeek](/Cards/PackYakSeek/Character01.jpg "Yak Pezuña GRANDE III")
 ##### Hogar
-![Isla Ah-Joh](/Cards/PackYakSeek/Home.jpg "Isla Ah-Joh")
+![Isla Ah-Joh](/Cards/PackYakSeek/Home01.jpg "Isla Ah-Joh")
 ##### Maestria
 ![GitHub](/Cards/PackYakSeek/Mastery01.jpg "GitHub")
 ##### Objeto
 ![Mapa Isla Ah-Joh](/Cards/PackYakSeek/Item01.jpg "Mapa Isla Ah-Joh")
-
+##### Historia
+![Pezuña GRANDE](/Cards/PackYakSeek/History01.jpg "Pezuña GRANDE")
 
 #### PackShoo
 
