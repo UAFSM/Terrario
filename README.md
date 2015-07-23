@@ -9,20 +9,22 @@ Tierras del Terrario
 
 #### PackYakSeek
 
-##### Character
+##### Personaje
 ![YakSeek](/Cards/PackYakSeek/Character.jpg "Yak Pezuña GRANDE III")
-##### Home
-![Isla Ah-Joh](/Cards/deck858dd2079e2fb8c096333c9fb244076c8bb37505.jpg "Isla Ah-Joh")
-
+##### Hogar
+![Isla Ah-Joh](/Cards/PackYakSeek/Home.jpg "Isla Ah-Joh")
+##### Maestria
+![GitHub](/Cards/PackYakSeek/Mastery01.jpg "GitHub")
 
 
 #### PackShoo
 
-##### Character
+##### Personaje
 ![Shoo](/Cards/deck9344021e5fdb2488eb92f569cc0d1520d416d8be.jpg "Shoo Chuzo Pezado")
-##### Home
+##### Hogar
 ![Isla Shoo-Cloh](/Cards/404.jpg "Isla Shoo-Cloh")
-
+##### Hogar
+![???](/Cards/404.jpg "???")
 
 
 ## ToDo:
@@ -38,3 +40,7 @@ Tierras del Terrario
 - http://www.readwritethink.org/files/resources/interactives/trading_cards_2/
 - http://bighugelabs.com/deck.php
 - http://pyromancers.com/dungeon-painter-online/
+- http://www.gpsvisualizer.com/draw/
+- https://www.mapbox.com/editor/#data
+- http://www.yeoldemapmaker.com/editor/
+- https://donjon.bin.sh/world/index.cgi
