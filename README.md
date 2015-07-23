@@ -15,6 +15,8 @@ Tierras del Terrario
 ![Isla Ah-Joh](/Cards/PackYakSeek/Home.jpg "Isla Ah-Joh")
 ##### Maestria
 ![GitHub](/Cards/PackYakSeek/Mastery01.jpg "GitHub")
+##### Objeto
+![Mapa Isla Ah-Joh](/Cards/PackYakSeek/Mastery01.jpg "Mapa Isla Ah-Joh")
 
 
 #### PackShoo
@@ -25,7 +27,7 @@ Tierras del Terrario
 ![Isla Shoo-Cloh](/Cards/404.jpg "Isla Shoo-Cloh")
 ##### Hogar
 ![???](/Cards/404.jpg "???")
-
+#####
 
 ## ToDo:
 
