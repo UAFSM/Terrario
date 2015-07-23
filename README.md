@@ -16,7 +16,7 @@ Tierras del Terrario
 ##### Maestria
 ![GitHub](/Cards/PackYakSeek/Mastery01.jpg "GitHub")
 ##### Objeto
-![Mapa Isla Ah-Joh](/Cards/PackYakSeek/Mastery01.jpg "Mapa Isla Ah-Joh")
+![Mapa Isla Ah-Joh](/Cards/PackYakSeek/Item01.jpg "Mapa Isla Ah-Joh")
 
 
 #### PackShoo
