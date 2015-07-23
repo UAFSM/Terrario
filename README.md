@@ -30,7 +30,7 @@ Tierras del Terrario
 ##### Maestria
 ![Coinbase](/Cards/PackBrahTrah/Mastery01.jpg "Coinbase")
 ##### Objeto
-![???](/Cards/PackBrahTrah/404.jpg "???")
+![Inventario](/Cards/PackBrahTrah/Item01.jpg "Inventario")
 ##### Historia
 ![Mente Fiel](/Cards/PackBrahTrah/History01.jpg "Mente Fiel")
 
