@@ -1,7 +1,7 @@
 # Terrario
 Tierras del Terrario
 
-[## Tutorial](https://github.com/UAFSM/Terrario/tree/master/Tutorial)
+## [Tutorial](https://github.com/UAFSM/Terrario/tree/master/Tutorial)
 
 ![Terrario UAFSM](/Cards/Table.png "Terrario UAFSM")
 
