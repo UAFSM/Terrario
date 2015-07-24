@@ -1,9 +1,16 @@
 # Terrario
 Tierras del Terrario
 
-## [Tutorial](https://github.com/UAFSM/Terrario/tree/master/Tutorial)
+![Terrario UAFSM](/Cards/Main.jpg "Terrario UAFSM")
+
+El terrario consta de varias islas conquistables y otras ya conquistadas por los personajes del terrario.
+
+## Tutorial
 
 ![Terrario UAFSM](/Cards/Table.png "Terrario UAFSM")
+
+En esta seccion se presenta un tutorial basico para aprender a utilizar el sistema del terrario.
+[Tutorial](https://github.com/UAFSM/Terrario/tree/master/Tutorial)
 
 ## Personajes Descubiertos:
 
