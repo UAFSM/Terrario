@@ -1,6 +1,11 @@
 # Terrario
 Tierras del Terrario
 
+## Tutorial
+
+![Terrario UAFSM](/Cards/Table.png "Terrario UAFSM")
+https://github.com/UAFSM/Terrario/tree/master/Tutorial
+
 ## Islas Conocidas:
 
 - Isla Ah-Joh

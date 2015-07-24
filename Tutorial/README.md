@@ -1,6 +1,6 @@
 ## Tutorial
 
-![Terrario UAFSM](/Cards/deckcefefae90e2a6f631a55dc59d84bc7a1e0f93335.jpg "Universidad Autonoma Federico Santa Maria")
+![Terrario UAFSM](/Cards/Main.jpg "Universidad Autonoma Federico Santa Maria")
 
 ### Selecciona un Pack
 
