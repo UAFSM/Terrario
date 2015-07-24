@@ -1,55 +1,25 @@
 # Terrario
 Tierras del Terrario
 
-## Tutorial
+## Islas Conocidas:
 
-![Terrario UAFSM](/Cards/deckcefefae90e2a6f631a55dc59d84bc7a1e0f93335.jpg "Universidad Autonoma Federico Santa Maria")
+- Isla Ah-Joh
+- Isla Pap-Pap
+- Isla MaiJhana
 
-### Selecciona un Pack
+## Personajes Descubiertos:
 
-#### PackYakSeek
-
-##### Personaje
-![YakSeek](/Cards/PackYakSeek/Character01.jpg "Yak Pezuña GRANDE III")
-##### Hogar
-![Isla Ah-Joh](/Cards/PackYakSeek/Home01.jpg "Isla Ah-Joh")
-##### Maestria
-![GitHub](/Cards/PackYakSeek/Mastery01.jpg "GitHub")
-##### Objeto
-![Mapa Isla Ah-Joh](/Cards/PackYakSeek/Item01.jpg "Mapa Isla Ah-Joh")
-##### Historia
-![Pezuña GRANDE](/Cards/PackYakSeek/History01.jpg "Pezuña GRANDE")
-
-
-#### PackBrahTrah
-
-##### Personaje
-![BrahTrah](/Cards/PackBrahTrah/Character01.jpg "BrahTrah Mente Fiel")
-##### Hogar
-![Isla Pap-Pap](/Cards/PackBrahTrah/Home01.jpg "Isla Pap-Pap")
-##### Maestria
-![Coinbase](/Cards/PackBrahTrah/Mastery01.jpg "Coinbase")
-##### Objeto
-![Inventario](/Cards/PackBrahTrah/Item01.jpg "Inventario")
-##### Historia
-![Mente Fiel](/Cards/PackBrahTrah/History01.jpg "Mente Fiel")
-
-#### PackShoo
-
-##### Personaje
-![Shoo](/Cards/deck9344021e5fdb2488eb92f569cc0d1520d416d8be.jpg "Shoo Chuzo Pezado")
-##### Hogar
-![Isla Shoo-Cloh](/Cards/404.jpg "Isla Shoo-Cloh")
-##### Hogar
-![???](/Cards/404.jpg "???")
-#####
+- Druida Tauren Telematico YakSeek
+- Shaman Goblin Comercial BrahTrah
+- Hunter Troll Optica Kaparitu
+- Hunter Orco Industrial Zeryak
 
 ## ToDo:
 
-- Listar Islas
-- Listar Personajes
-- Hacer Mapa
-- Hacer Cartas 
+- Listar Islas Totales
+- Tutoriales:
+	- Hacer Mapa
+	- Hacer Cartas 
 
 ## Webs:
 
