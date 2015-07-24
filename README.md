@@ -1,21 +1,16 @@
 # Terrario
 Tierras del Terrario
 
-## Tutorial
+[https://github.com/UAFSM/Terrario/tree/master/Tutorial](## Tutorial)
 
 ![Terrario UAFSM](/Cards/Table.png "Terrario UAFSM")
-https://github.com/UAFSM/Terrario/tree/master/Tutorial
 
 ## Personajes Descubiertos:
 
-- Druida Tauren Telematico YakSeek
-https://github.com/UAFSM/Terrario/tree/master/Cards/PackYakSeek
-- Shaman Goblin Comercial BrahTrah
-https://github.com/UAFSM/Terrario/tree/master/Cards/PackBrahTrah
-- Hunter Troll Optica Kaparitu
-https://github.com/UAFSM/Terrario/tree/master/Cards/PackKaparitu
-- Hunter Orco Industrial Zeryak
-https://github.com/UAFSM/Terrario/tree/master/Cards/PackZeryak
+- [https://github.com/UAFSM/Terrario/tree/master/Cards/PackYakSeek](Druida Tauren Telematico YakSeek)
+- [https://github.com/UAFSM/Terrario/tree/master/Cards/PackBrahTrah](Shaman Goblin Comercial BrahTrah)
+- [https://github.com/UAFSM/Terrario/tree/master/Cards/PackKaparitu](Hunter Troll Optica Kaparitu)
+- [https://github.com/UAFSM/Terrario/tree/master/Cards/PackZeryak](Hunter Orco Industrial Zeryak)
 
 ## Islas Conocidas:
 
