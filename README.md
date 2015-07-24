@@ -6,18 +6,22 @@ Tierras del Terrario
 ![Terrario UAFSM](/Cards/Table.png "Terrario UAFSM")
 https://github.com/UAFSM/Terrario/tree/master/Tutorial
 
+## Personajes Descubiertos:
+
+- Druida Tauren Telematico YakSeek
+https://github.com/UAFSM/Terrario/tree/master/Cards/PackYakSeek
+- Shaman Goblin Comercial BrahTrah
+https://github.com/UAFSM/Terrario/tree/master/Cards/PackBrahTrah
+- Hunter Troll Optica Kaparitu
+https://github.com/UAFSM/Terrario/tree/master/Cards/PackKaparitu
+- Hunter Orco Industrial Zeryak
+https://github.com/UAFSM/Terrario/tree/master/Cards/PackZeryak
+
 ## Islas Conocidas:
 
 - Isla Ah-Joh
 - Isla Pap-Pap
 - Isla MaiJhana
-
-## Personajes Descubiertos:
-
-- Druida Tauren Telematico YakSeek
-- Shaman Goblin Comercial BrahTrah
-- Hunter Troll Optica Kaparitu
-- Hunter Orco Industrial Zeryak
 
 ## ToDo:
 
