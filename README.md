@@ -7,7 +7,7 @@ El terrario consta de varias islas conquistables y otras ya conquistadas por los
 
 ## Tutorial
 
-![Terrario UAFSM](/Cards/Main.jpg "Terrario UAFSM")
+<img src="/Cards/Main.jpg" width="121" heigh="171">
 
 En esta seccion se presenta un tutorial basico para aprender a utilizar el sistema del terrario.
 [Tutorial](https://github.com/UAFSM/Terrario/tree/master/Tutorial)
