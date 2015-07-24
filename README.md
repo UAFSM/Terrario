@@ -1,13 +1,13 @@
 # Terrario
-Tierras del Terrario
+### Tierras del Terrario
 
-![Terrario UAFSM](/Cards/Main.jpg "Terrario UAFSM")
+![Terrario UAFSM](/Cards/Table.png "Terrario UAFSM")
 
 El terrario consta de varias islas conquistables y otras ya conquistadas por los personajes del terrario.
 
 ## Tutorial
 
-![Terrario UAFSM](/Cards/Table.png "Terrario UAFSM")
+![Terrario UAFSM](/Cards/Main.jpg "Terrario UAFSM")
 
 En esta seccion se presenta un tutorial basico para aprender a utilizar el sistema del terrario.
 [Tutorial](https://github.com/UAFSM/Terrario/tree/master/Tutorial)
@@ -17,7 +17,7 @@ En esta seccion se presenta un tutorial basico para aprender a utilizar el siste
 - [Druida Tauren Telematico YakSeek](https://github.com/UAFSM/Terrario/tree/master/Cards/PackYakSeek)
 - [Shaman Goblin Comercial BrahTrah](https://github.com/UAFSM/Terrario/tree/master/Cards/PackBrahTrah)
 - [Hunter Troll Optica Kaparitu](https://github.com/UAFSM/Terrario/tree/master/Cards/PackKaparitu)
-- [Hunter Orco Industrial Zeryak)](https://github.com/UAFSM/Terrario/tree/master/Cards/PackZeryak)
+- [Hunter Orco Industrial Zeryak](https://github.com/UAFSM/Terrario/tree/master/Cards/PackZeryak)
 
 ## Islas Conocidas:
 
